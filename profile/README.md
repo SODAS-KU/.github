@@ -1,6 +1,16 @@
 # Copenhagen Center for Social Data Science
 
-https://sodas.ku.dk/
+Welcome to the [SODAS](https://sodas.ku.dk/) Github!
+
+SODAS is an interdisciplinary social science centre located at the Faculty of Social Sciences, University of Copenhagen. Combining classic social science theories and methods with state of the art data science techniques, SODAS aspires to do cutting-edge and creative interdisciplinary research, teaching and impact in the crossroads between the social sciences and data science.
+
+[Read more about the center here](https://sodas.ku.dk/about/)
+
+## Public repositories
+
+Repository | Description
+-----|-----
+VectorProjector | TBD
 
 <!--
 
