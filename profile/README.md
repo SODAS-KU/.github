@@ -1,4 +1,4 @@
-# Copenhagen Center for Social Data Science
+<img src="sodas_banner.jpg"></img>
 
 Welcome to the [SODAS](https://sodas.ku.dk/) Github!
 
