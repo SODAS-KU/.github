@@ -1,4 +1,4 @@
-<img src="sodas_banner.jpg"></img>
+<img src="/profile/sodas_banner.jpg"></img>
 
 Welcome to the [SODAS](https://sodas.ku.dk/) Github!
 
