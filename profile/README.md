@@ -6,13 +6,6 @@ SODAS is an interdisciplinary social science centre located at the Faculty of So
 
 [Read more about the center here](https://sodas.ku.dk/about/)
 
-## Public repositories
-
-Repository | Description
------|-----
-[w2widget](https://github.com/SODAS-KU/w2widget) | Widget interface for constructing topic dictionaries from word vectors
-VectorProjector | TBA/TBD
-
 <!--
 
 **Here are some ideas to get you started:**
